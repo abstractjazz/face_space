@@ -5,6 +5,7 @@ html, body {
 
 body {
   display: flex;
+  font-family: 'courier', 'sans-serif'
 }
 
 canvas {
@@ -12,3 +13,12 @@ canvas {
  
 }
 
+iframe {
+  height: 100vh;
+}
+
+
+#sc-widget {
+
+  height: 100vh;
+}
