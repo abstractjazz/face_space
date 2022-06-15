@@ -116,7 +116,6 @@ const backgroundDots=()=>{
 
 function setup() {
 
-  
   function savePic(){
     const confirm = createElement('h2', 'pic saved!')
     confirm.style('font-size', '24px');
